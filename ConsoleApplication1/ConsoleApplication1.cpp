@@ -155,6 +155,6 @@ int main()
             break;
         }
         printf("\nНажмите Enter, чтобы продолжить...");
-        _getch();
+        getch();
     }
 }
